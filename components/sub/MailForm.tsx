@@ -59,9 +59,7 @@ const MailForm = ({
     } catch (error) {
       console.error("Error submitting form:", error);
       toast.error(
-        (error as any)?.response?.data?.message ||
-          (error as Error)?.message ||
-          "Something went wrong"
+        error instanceof Error ? error.message : "Something went wrong"
       );
     } finally {
       setIsSubmitting(false);
