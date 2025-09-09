@@ -43,7 +43,7 @@ export default function Testimonial() {
   return (
     <div id="testimonial" className="items-start px-6 md:px-0">
       <h2 className="text-[40px] text-center  font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
-        Hear From My Clients
+        What People Say About Me
       </h2>
       <div className="relative flex flex-col items-center justify-center w-full mt-4 overflow-hidden">
         <Marquee pauseOnHover className="[--duration:20s]">
