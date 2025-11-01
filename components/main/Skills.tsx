@@ -1,5 +1,5 @@
 import {
-  Backend_skill,
+  // Backend_skill,
   Frontend_skill,
   //   Full_stack,
   //   Other_skill,
