@@ -89,24 +89,24 @@ export const Skill_data = [
   //   width: 80,
   //   height: 80,
   // },
-  {
-    skill_name: "Express js",
-    Image: "/express.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Node js",
-    Image: "/node-js.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Mongo db",
-    Image: "/mongodb.png",
-    width: 40,
-    height: 40,
-  },
+  // {
+  //   skill_name: "Express js",
+  //   Image: "/express.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "Node js",
+  //   Image: "/node-js.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "Mongo db",
+  //   Image: "/mongodb.png",
+  //   width: 40,
+  //   height: 40,
+  // },
 ];
 
 export const Socials = [
@@ -129,66 +129,66 @@ export const Socials = [
 ];
 
 export const Frontend_skill = [
-  {
-    skill_name: "Html 5",
-    Image: "/html.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Css",
-    Image: "/css.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Java Script",
-    Image: "/js.png",
-    width: 65,
-    height: 65,
-  },
-  {
-    skill_name: "Tailwind Css",
-    Image: "/tailwind.png",
-    width: 80,
-    height: 80,
-  },
   // {
-  //   skill_name: "Material UI",
-  //   Image: "/mui.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  {
-    skill_name: "React",
-    Image: "/react.png",
-    width: 80,
-    height: 80,
-  },
-  // {
-  //   skill_name: "Redux",
-  //   Image: "/redux.png",
+  //   skill_name: "Html 5",
+  //   Image: "/html.png",
   //   width: 80,
   //   height: 80,
   // },
   // {
-  //   skill_name: "React Query",
-  //   Image: "/reactquery.png",
+  //   skill_name: "Css",
+  //   Image: "/css.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "Java Script",
+  //   Image: "/js.png",
+  //   width: 65,
+  //   height: 65,
+  // },
+  // {
+  //   skill_name: "Tailwind Css",
+  //   Image: "/tailwind.png",
   //   width: 80,
   //   height: 80,
   // },
   {
-    skill_name: "Type Script",
-    Image: "/ts.png",
+    skill_name: "Material UI",
+    Image: "/mui.png",
+    width: 80,
+    height: 80,
+  },
+  // {
+  //   skill_name: "React",
+  //   Image: "/react.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  {
+    skill_name: "Redux",
+    Image: "/redux.png",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "Next js",
-    Image: "/next.png",
+    skill_name: "React Query",
+    Image: "/reactquery.png",
     width: 80,
     height: 80,
   },
+  // {
+  //   skill_name: "Type Script",
+  //   Image: "/ts.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "Next js",
+  //   Image: "/next.png",
+  //   width: 80,
+  //   height: 80,
+  // },
 ];
 
 export const Backend_skill = [
@@ -283,16 +283,6 @@ export const Backend_skill = [
 export const experiences = [
   {
     title: "Frontend Developer",
-    job: "Small Business Project",
-    date: "Jan 2025 - May 2025",
-    contents: [
-      "Built a digital bookstore for a small firm, featuring book catalog browsing, responsive UI, and secure ordering workflow.",
-      "Implemented search and filtering functionality to improve discoverability and user navigation.",
-      "Leveraged React and Tailwind CSS to deliver a modern, fast, and scalable web experience.",
-    ],
-  },
-  {
-    title: "Frontend Developer",
     job: "IF NOT FOR GOD LIMITED",
     date: "Apr 2025 - Aug 2025",
     contents: [
@@ -303,14 +293,25 @@ export const experiences = [
     ],
   },
   {
-    title: "Freelance Developer",
-    job: "Self-Employed",
-    date: "Aug 2025 - Present",
+    title: "Frontend Developer (Open Source Contributor)",
+    job: "Tansu — Stellar Ecosystem",
+    date: "Aug 2025 - Oct 2025",
     contents: [
-      "Built a car rental platform using React, Tailwind CSS, and modern animations, enabling seamless booking and user-friendly navigation.",
-      "Developed a dessert cart application with dynamic cart management, order confirmation flow, and modal UI components.",
-      "Implemented email functionality and interactive UIs using React Hook Form and Framer Motion.",
-      "Delivered tailored frontend solutions for clients with a focus on user experience and responsiveness.",
+      "Contributed to the development of Tansu, an open-source Stellar project focused on proposal creation and governance.",
+      "Implemented UI enhancements and improved component structures for better accessibility and performance.",
+      "Collaborated with maintainers through GitHub PRs to refine UX and frontend logic.",
+      "Helped improve overall project usability by providing clean, responsive, and consistent UI updates.",
+    ],
+  },
+  {
+    title: "Frontend Developer",
+    job: "Personal Projects & Continuous Learning",
+    date: "Oct 2025 - Present",
+    contents: [
+      "Actively building personal projects to strengthen frontend development skills and explore modern web technologies.",
+      "Developed a car rental platform using React, Tailwind CSS, and Framer Motion with smooth and engaging UI animations.",
+      "Built a dessert cart application featuring dynamic cart management, order confirmation flow, and responsive layouts.",
+      "Continuously improving design principles, code structure, and performance optimization through hands-on practice.",
     ],
   },
 ];
