@@ -44,13 +44,15 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m a Full Stack Software Engineer with 2+ years of hands-on
-          experience building scalable web and mobile applications. I have
-          completed 15+ real-world projects, improving user engagement by up to
-          30% through responsive design and optimized performance. Skilled
-          across the stack (React, Next.js, Tailwind, MongoDB, Express), I
-          specialize in delivering clean, efficient solutions that blend modern
-          UI/UX with robust backend systems.
+          I&apos;m a Frontend Developer with 2+ years of hands-on experience in
+          responsive web design, UI/UX development, and web performance
+          optimization. Skilled in HTML5, CSS3, JavaScript (ES6+), React.js,
+          Next.js, Tailwind CSS, and Bootstrap, I specialize in building
+          scalable, accessible, and cross-browser compatible Single Page
+          Applications (SPAs). I&apos;m experienced with RESTful APIs, Git
+          version control, and frontend architecture, delivering modern
+          interfaces that combine visual consistency, usability, and clean code
+          maintainability.
         </motion.p>
 
         {/* Enhanced Download CV Button */}
